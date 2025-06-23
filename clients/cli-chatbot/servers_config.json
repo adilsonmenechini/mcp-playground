@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "sqlite": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/adilsonmenechini/SRE/POC/mcp-playground/servers/mcp-user-db/",
+        "run",
+        "mcp",
+        "run",
+        "server.py"
+      ]
+    }
+  }
+}
